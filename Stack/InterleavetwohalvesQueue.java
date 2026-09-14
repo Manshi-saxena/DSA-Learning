@@ -1,6 +1,6 @@
 package Stack;
 import java.util.*;
-public class Classroom{
+public class InterleavetwohalvesQueue{
     public static void interleave(Queue<Integer>q){
         Queue<Integer> firsthalf = new LinkedList<>();
         int size = q.size();
